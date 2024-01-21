@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>SKIP IoT Kit</title>
+  <style>
+    /* This site should be pretty minimal, so no libraries are used,
+     * and the styling is handled manually with CSS.*/
+    body {
+      /* Add a subtle linear-gradient to the background*/
+      background: linear-gradient(45deg, #DD5055, #fff, #3DE5EB);
+      height: 100vh;
+      margin: 0;
+      /* Display options */
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      /* Font */
+      font-family: 'Arial', sans-serif;
+      font-size: 2em;
+      color: #333;
+      text-align: center;
+    }
+    /* Mobile-specific preferences */
+    @media (max-width: 600px) {
+      body {
+        flex-direction: column;
+        background: linear-gradient(5deg, #DD5055, #fff, #3DE5EB);
+      }
+    }
+    iframe { border: none; }
+    a { color: #111; }
+  </style>
+</head>
+<body>
+  <!-- Display logo with a hyperlink to the landing page.-->
+  <div>
+    <img src="imgs/logo_skip.png" width="256px" height="256px"/>
+    <a href="https://skipgu.org/"><h4><i>skipgu.org</i></h4></a>
+  </div>
+  <!-- Embed the Google Spreadsheet to an iframe elem-->
+  <iframe height="320x" width="100%" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTviKANt1dNy8veWi2vkAiUaeLgUrIGsggTV_VmRYuh3rumGX7_6qNthSVxn_sPJrIqzTCqfN2OLkSM/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+</body>
+</html>
+
