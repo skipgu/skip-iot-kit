@@ -4,6 +4,11 @@
 
 ![Poster](imgs/poster.png)
 
+## What are the available boards, sensors, and kits?
+
+Please visit the [**SKIP IoT Kit**](skipgu.org/skip-iot-kit/) page to see
+a **curated list of available items** that you can borrow from SKIP.
+
 ### Perfect, how do I join SKIP?
 
 All required information about **joining** SKIP can be found on our
