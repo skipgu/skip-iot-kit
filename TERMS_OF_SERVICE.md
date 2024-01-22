@@ -7,7 +7,7 @@
 **1. Eligibility**
 
 - Participants must be registered students of **Gothenburg University**.
-- Users must complete the registration form providing accurate and up-to-date information.
+- The borrower's eligibility is subject to the approval of SKIP Student Association.
 
 **2. Borrowing Duration**
 
