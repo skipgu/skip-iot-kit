@@ -4,6 +4,9 @@
 
 ![Poster](imgs/poster.png)
 
+By participating in this initiative, you **agree** with the following
+[**GUIDELINES**](TERMS_OF_SERVICE.md).
+
 ## What are the available boards, sensors, and kits?
 
 Please visit the [**SKIP IoT Kit**](skipgu.org/skip-iot-kit/) page to see
