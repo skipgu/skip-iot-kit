@@ -8,10 +8,25 @@
 
 - Participants must be registered students of **Gothenburg University**.
 - The borrower's eligibility is subject to the approval of SKIP Student Association.
+- Students enrolled in the course 'Development of Embedded and Realtime Systems
+  (DIT632/DIT633)' or the equivalent are given priority. Other students may be
+  eligible to borrow equipment, however, priority is given to students enrolled
+  in the aforementioned course.
+
+**1.1 Quantity Limits**
+
+- Each user may borrow **up to 3 items** at a time.
+- This limit does not apply to the following items:
+  - Wire Jumpers,
+  - Single-color LEDs,
+  - Resistors,
+- Additional items may be borrowed upon request and subject to availability.
+- The SKIP Student Association reserves the right to limit the quantity of items borrowed by any user.
 
 **2. Borrowing Duration**
 
-- The borrowing period is **30 days**.
+- The borrowing period is **between 30-60 days**.
+- The exact borrowing period is specified by the borrower and approved by the SKIP Student Association.
 - Extensions may be granted upon request and subject to availability.
 
 **3. Responsibilities of Borrower**
