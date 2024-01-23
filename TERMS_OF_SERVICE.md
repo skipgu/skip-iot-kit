@@ -19,7 +19,7 @@
 - This limit does not apply to the following items:
   - Wire Jumpers,
   - Single-color LEDs,
-  - Resistors,
+  - Resistors.
 - Additional items may be borrowed upon request and subject to availability.
 - The SKIP Student Association reserves the right to limit the quantity of items borrowed by any user.
 
