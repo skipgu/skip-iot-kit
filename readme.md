@@ -11,8 +11,8 @@ applying for the IoT Kit**. The quantity limit is **three items** per person
 
 ## What are the available boards, sensors, and kits?
 
-Please visit the [**SKIP IoT Kit**](skipgu.org/skip-iot-kit/) page to see
-a **curated list of available items** that you can borrow from SKIP.
+Please visit the [**SKIP IoT Kit**](https://skipgu.org/skip-iot-kit/) page to
+see a **curated list of available items** that you can borrow from SKIP.
 
 ### Didn't find what you were looking for?
 
