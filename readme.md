@@ -61,3 +61,9 @@ the items. The **date and time** of the pickup will be arranged via email or
 other means of communication (the location is primarily at campus Lindholmen,
 with possible arrangements for the Johanneberg campus).
 
+### Non-profit Organization
+
+SKIP is a **non-profit organization** that is run by students. All gathered
+funds are used to **improve the student experience**. In this case, the funds
+will be used to **purchase new items** for the IoT Kit, which will be
+progressively made available to the students.
