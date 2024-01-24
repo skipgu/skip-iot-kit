@@ -20,6 +20,12 @@
   - Wire Jumpers,
   - Single-color LEDs,
   - Resistors.
+- Furthermore, a user may borrow **at most one** of each of the following items:
+  - Arduino Uno,
+  - Arduino Mega,
+  - Raspberry Pi 3 Model B,
+  - Raspberry Pi 3 Model B+,
+  - Raspberry Pi Zero W. 
 - Additional items may be borrowed upon request and subject to availability.
 - The SKIP Student Association reserves the right to limit the quantity of items borrowed by any user.
 
